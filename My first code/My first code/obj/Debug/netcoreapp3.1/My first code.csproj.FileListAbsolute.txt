@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\My first code\My first code\bin\Debug\netcoreapp3.1\My first code.exe
+C:\Users\Admin\source\repos\My first code\My first code\bin\Debug\netcoreapp3.1\My first code.deps.json
+C:\Users\Admin\source\repos\My first code\My first code\bin\Debug\netcoreapp3.1\My first code.runtimeconfig.json
+C:\Users\Admin\source\repos\My first code\My first code\bin\Debug\netcoreapp3.1\My first code.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\My first code\My first code\bin\Debug\netcoreapp3.1\My first code.dll
+C:\Users\Admin\source\repos\My first code\My first code\bin\Debug\netcoreapp3.1\My first code.pdb
+C:\Users\Admin\source\repos\My first code\My first code\obj\Debug\netcoreapp3.1\My first code.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\My first code\My first code\obj\Debug\netcoreapp3.1\My first code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\My first code\My first code\obj\Debug\netcoreapp3.1\My first code.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\My first code\My first code\obj\Debug\netcoreapp3.1\My first code.AssemblyInfo.cs
+C:\Users\Admin\source\repos\My first code\My first code\obj\Debug\netcoreapp3.1\My first code.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\My first code\My first code\obj\Debug\netcoreapp3.1\My first code.dll
+C:\Users\Admin\source\repos\My first code\My first code\obj\Debug\netcoreapp3.1\My first code.pdb
+C:\Users\Admin\source\repos\My first code\My first code\obj\Debug\netcoreapp3.1\My first code.genruntimeconfig.cache
