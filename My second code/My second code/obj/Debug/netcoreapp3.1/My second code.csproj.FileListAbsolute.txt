@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\My second code\My second code\bin\Debug\netcoreapp3.1\My second code.exe
+C:\Users\Admin\source\repos\My second code\My second code\bin\Debug\netcoreapp3.1\My second code.deps.json
+C:\Users\Admin\source\repos\My second code\My second code\bin\Debug\netcoreapp3.1\My second code.runtimeconfig.json
+C:\Users\Admin\source\repos\My second code\My second code\bin\Debug\netcoreapp3.1\My second code.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\My second code\My second code\bin\Debug\netcoreapp3.1\My second code.dll
+C:\Users\Admin\source\repos\My second code\My second code\bin\Debug\netcoreapp3.1\My second code.pdb
+C:\Users\Admin\source\repos\My second code\My second code\obj\Debug\netcoreapp3.1\My second code.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\My second code\My second code\obj\Debug\netcoreapp3.1\My second code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\My second code\My second code\obj\Debug\netcoreapp3.1\My second code.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\My second code\My second code\obj\Debug\netcoreapp3.1\My second code.AssemblyInfo.cs
+C:\Users\Admin\source\repos\My second code\My second code\obj\Debug\netcoreapp3.1\My second code.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\My second code\My second code\obj\Debug\netcoreapp3.1\My second code.dll
+C:\Users\Admin\source\repos\My second code\My second code\obj\Debug\netcoreapp3.1\My second code.pdb
+C:\Users\Admin\source\repos\My second code\My second code\obj\Debug\netcoreapp3.1\My second code.genruntimeconfig.cache
